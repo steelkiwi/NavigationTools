@@ -12,7 +12,7 @@ Simple Navigation tools (between activities and fragments) for Android
 
 # Navigation Manager
 
-You can inherits your own BaseActivity from AbstractBaseActivity you already have access to the NavigationManager.
+You can inherits your own BaseActivity from AbstractBaseActivity and you already will have access to the NavigationManager.
 If you don`t want do it and decide not inherits from base abstract activity you need create NavigationManager.
 NavigationManager have some method what need to set it before use
 
